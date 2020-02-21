@@ -30,6 +30,3 @@ while True:
 
 # this should give largely the same result as take2
 # as the script essentially performs a downward search from greatest to lowest
-
-# the 
-print(sorted(chosen))
